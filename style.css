@@ -1,0 +1,17 @@
+body {
+    background: #2a2a3f;
+    color: #fff;
+    margin: 0 auto;
+    width: 70%;
+  }
+
+  a {
+    text-decoration: none;
+    color: #ccc;
+  }
+
+  img {
+    display: block;
+    height: 300px;
+    margin: 0 auto;
+  }
