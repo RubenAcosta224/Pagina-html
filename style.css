@@ -6,6 +6,7 @@ body {
   }
 
   a {
+    margin-left: 15px;
     text-decoration: none;
     color: #ccc;
   }
@@ -14,4 +15,12 @@ body {
     display: block;
     height: 300px;
     margin: 0 auto;
+  }
+
+
+  form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
   }
